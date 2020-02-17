@@ -1,0 +1,250 @@
+.image
+{
+	width: 100%;
+	height: 50%;
+}
+
+.logo
+{
+	margin-top: 23px;
+	width: 16%;
+}
+
+.btn.mybtn
+{
+	background-color: white;
+	color: black;
+	float: right;
+	margin-top: 25px;
+}
+
+.brand
+{
+	width: 50%;
+	margin-left: 300px;
+	margin-top: 20px;
+}
+
+.ff
+{
+	margin-left: 83px; 
+	margin-top: 30px;
+	width: 250px;
+	height: 180px;
+}
+
+.pizza
+{
+	margin-top: 30px;
+	margin-left: 25px;
+	width: 250px;
+	height: 180px;
+}
+
+.shake
+{
+	margin-top: 30px;
+	margin-left: 25px;
+	width: 250px;
+	height: 180px;
+}
+
+.ice
+{
+	margin-top: 30px;
+	margin-left: 25px;
+	width: 250px;
+	height: 180px;
+}
+
+.down
+{
+	width: 34%;
+	margin-left: 383px;
+	margin-top: 10px;
+}
+
+.jumbotron
+{
+	margin-top: 200px;
+	height: 300px;
+}
+
+.logo1
+{
+	width: 10%;
+	margin-left: 100px;
+	margin-top: 50px;
+}
+
+.footer
+{
+	background-color: black;
+	padding-bottom: 170px;
+}
+
+.footer2
+{
+	background-color: black;
+	padding-top: 90px;	
+	padding-bottom: 50px;
+}
+
+.text
+{
+    float: right;
+	text-decoration: none;
+	color: white;
+	cursor: pointer;
+	margin-right: 200px;
+	margin-top: 50px;
+}
+
+
+a:link
+{
+	text-decoration: none;
+	color: white;
+}
+
+a:visited
+{
+	color: white;
+    text-decoration: none;
+}
+
+a:hover
+{
+	color: white;
+    text-decoration: none;
+}
+
+a:active
+{
+	color: white;
+    text-decoration: none;
+}
+
+hr.hrtag
+{
+	border: 1px solid white;
+}
+
+.copy
+{
+	color: white;
+	margin-top: 20px;
+}
+
+.terms
+{
+	color: white;
+	float: right;
+	margin-top: -20px;
+	margin-right: 115px;
+}
+.policy
+{
+	color: white;
+	float: right;
+	margin-top: -20px;
+	margin-right: 35px;
+}
+
+.price
+{
+	color: white;
+	float: right;
+	margin-right: 35px;
+	margin-top: -20px;
+}
+
+.social
+{
+	word-spacing: 15px;
+	margin-top: 50px;
+}
+
+@media only screen and (max-width: 600px) {
+	.logo
+	{
+		width: 35%;
+	}
+	
+	.btn.mybtn
+	{
+		margin-top: 17px;
+	}
+	
+	.brand
+	{
+		margin-left: 1px;
+		width: 100%;
+	}
+	
+	.ff
+	{
+		margin-left: 50px;
+		width: 300px;
+		height: 200px;
+	}
+	
+	.pizza
+	{
+		margin-left: 50px;
+		width: 300px;
+		height: 200px;		
+	}
+	.shake
+	{
+		margin-left: 50px;
+		width: 300px;
+		height: 200px;		
+	}
+	.ice
+	{
+		margin-left: 50px;
+		width: 300px;
+		height: 200px;		
+	}
+	
+	.down
+	{
+		width: 70%;
+		margin-left: 64px;
+	}
+	
+	.logo1
+	{
+		width: 35%;
+		margin-left: 20px;
+	}
+	
+	.text
+	{
+		margin-right: 15px;
+	}
+	
+	.copy
+	{
+		margin-top: 70px;
+		margin-left: 115px;
+	}
+	
+	.policy
+	{
+		margin-top: -80px;
+	}
+	
+	.terms
+	{
+		margin-top: -80px;
+		margin-right: 160px;
+	}
+	
+	.price
+	{
+		margin-top: -80px;
+		margin-right: 290px;
+	}
+}
