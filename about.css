@@ -219,7 +219,7 @@ hr.hrtag
 	
 	.slider
 	{
-		margin-top: 30px;
+		margin-top: 50px;
 		margin-left: 42px;
 	}
 	
@@ -238,20 +238,20 @@ hr.hrtag
 	
 	.pizza
 	{
-		width: 220px;
-		height: 150px;
+		width: 240px;
+		height: 170px;
 	}
 	
 	.shake
 	{
-		width: 220px;
-		height: 150px;
+		width: 240px;
+		height: 170px;
 	}
 	
 	.ice
 	{
-		width: 220px;
-		height: 150px;
+		width: 240px;
+		height: 170px;
 	}
 	
 	.order1
@@ -263,9 +263,9 @@ hr.hrtag
 	
 	.order
 	{
-		width: 220px;
-		height: 150px;
-		margin-top: 20px;
+		width: 240px;
+		height: 170px;
+		margin-top: 40px;
 		margin-left: 42px;
 	}
 	
