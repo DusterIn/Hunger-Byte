@@ -1,0 +1,317 @@
+.image
+{
+	width: 100%;
+	height: 50%;
+}
+
+.logo
+{
+	margin-top: 23px;
+	width: 16%;
+}
+
+.btn.mybtn
+{
+	background-color: white;
+	color: black;
+	float: right;
+	margin-top: 25px;
+}
+
+.brand
+{
+	width: 50%;
+	margin-left: 300px;
+	margin-top: 20px;
+}
+
+.jumbotron
+{
+	margin-top: 2px;
+	height: 210px;
+}
+
+.logo1
+{
+	width: 12%;
+	margin-left: 100px;
+	margin-top: 50px;
+}
+
+.footer
+{
+	background-color: black;
+	padding-bottom: 170px;
+}
+
+.footer2
+{
+	background-color: black;
+	padding-top: 90px;	
+	padding-bottom: 50px;
+}
+
+.text
+{
+    float: right;
+	text-decoration: none;
+	color: white;
+	cursor: pointer;
+	margin-right: 200px;
+	margin-top: 50px;
+}
+
+
+a:link
+{
+	text-decoration: none;
+	color: white;
+}
+
+a:visited
+{
+	color: white;
+    text-decoration: none;
+}
+
+a:hover
+{
+	color: white;
+    text-decoration: none;
+}
+
+a:active
+{
+	color: white;
+    text-decoration: none;
+}
+
+hr.hrtag
+{
+	border: 1px solid white;
+}
+
+.copy
+{
+	color: white;
+	margin-top: 20px;
+}
+
+.terms
+{
+	color: white;
+	float: right;
+	margin-top: -20px;
+	margin-right: 115px;
+}
+.policy
+{
+	color: white;
+	float: right;
+	margin-top: -20px;
+	margin-right: 35px;
+}
+
+.social
+{
+	word-spacing: 15px;
+	margin-top: 50px;
+}
+
+.team
+{
+	width: 21%;
+	margin-left: 500px;
+	margin-top: -30px;
+}
+
+.we
+{
+	width: 8%;
+	margin-left: 575px;
+	margin-top: 4px;
+}
+
+.typewrite 
+{
+	color: white;
+	font-size: 20px;
+	margin-top: 10px;
+	margin-right: 25px;
+}
+
+.remo
+{
+	width: 210px;
+	height: 180px;
+}
+
+.remo1
+{
+	width: 15%;
+	margin-top: 232px;
+	margin-left: -190px;
+}
+
+.akhil
+{
+	width: 210px;
+	height: 180px;
+	margin-left: 100px;
+}
+
+.akhil1
+{
+	width: 11%;
+	margin-top: 230px;
+	margin-left: -165px;
+}
+
+.pelluru
+{
+	width: 210px;
+	height: 180px;
+	margin-left: 110px;
+}
+
+.pelluru1
+{
+	width: 10%;
+	margin-top: 230px;
+	margin-left: -160px;
+}
+
+.alludu
+{
+	width: 210px;
+	height: 180px;
+	margin-left: 120px;	
+}
+
+.alludu1
+{
+	width: 15%;
+	margin-top: 235px;
+	margin-left: -175px;
+}
+
+@media only screen and (max-width: 600px) {
+	.logo
+	{
+		width: 35%;
+	}
+	
+	.btn.mybtn
+	{
+		margin-top: 17px;
+	}
+	
+	.brand
+	{
+		margin-left: 1px;
+		width: 100%;
+	}
+	
+	.logo1
+	{
+		width: 35%;
+		margin-left: 20px;
+	}
+	
+	.text
+	{
+		margin-right: 15px;
+	}
+	
+	.copy
+	{
+		margin-top: 70px;
+		margin-left: 115px;
+	}
+	
+	.policy
+	{
+		margin-top: -80px;
+	}
+	
+	.terms
+	{
+		margin-top: -80px;
+		margin-right: 160px;
+	}
+	
+	.team
+	{
+		width: 50%;
+		margin-left: 75px;
+	}
+	
+	.we
+	{
+		width: 19%;
+		margin-left: 125px;
+	}
+	
+	.typewrite
+	{
+		font-size: 15px;
+		margin-left: 10px;
+	}
+	
+	.jumbotron
+	{
+		height: 140px;
+	}
+	
+	.remo
+	{
+		margin-left: 40px;
+	}
+	
+	.remo1
+	{
+		width: 44%;
+		margin-left: 87px;
+		margin-top: 10px;
+	}
+	
+	.akhil
+	{
+		margin-top: 30px;
+		margin-left: 40px;
+	}
+	
+	.akhil1
+	{
+		width: 37%;
+		margin-left: 90px;
+		margin-top: 10px;
+	}
+	
+	.pelluru
+	{
+		margin-top: 26px;
+		margin-left: 40px;
+	}
+	
+	.pelluru1
+	{
+		width: 35%;
+		margin-left: 94px;
+		margin-top: 10px;
+	}
+	
+	.alludu
+	{
+		margin-left: 40px;
+		margin-top: 26px;
+	}
+	
+	.alludu1
+	{
+		width: 44%;
+		margin-left: 87px;
+		margin-top: 10px;		
+	}
+	
+}
